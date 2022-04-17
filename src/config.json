@@ -1,0 +1,12 @@
+{
+    "bot": {
+        "token": "discord-bot-token",
+        "owners": [ 
+            "owner-id-one",
+            "owner-id-two"
+        ]
+    },
+    "database": {
+        "url": "mongodb-url"
+    }
+}
