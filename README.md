@@ -11,7 +11,7 @@
 > $ `npm run dev`
 >
 > Production mode: \
-> $ `npm run build`
+> $ `npm run start`
 >
 > for JS output: \
 > $ `npx tsc`
